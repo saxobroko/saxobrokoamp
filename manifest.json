@@ -1,0 +1,9 @@
+{
+  "name": "Saxo_Broko's Website",
+  "short_name": "Saxo_Broko",
+  "theme_color": "#737373",
+  "background_color": "#717171",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/"
+}
